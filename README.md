@@ -1,4 +1,4 @@
-### about me
+### About me
 
 Hi all,
 
@@ -12,9 +12,9 @@ Currently in the process of changing the course of my life towards an interdisci
 Therefore, **I'm looking for a 3 to 6 months internship** to consolidate my training in a challenging and collaborative work environment.
 
 Download my resume below:
-[CV_ML_OCT2021_v1.2.pdf](https://github.com/szkjn/resume/files/7368401/CV_ML_OCT2021_v1.2.pdf)
+[Jun-Suzuki-in-a-nutshell.pdf](https://github.com/szkjn/resume/files/7368401/CV_ML_OCT2021_v1.2.pdf)
 
-More about myself ?
+More about myself :
 
 I've spent the last 3 years challenging myself, attending selective art residencies all around Europe (Iceland, Hungary, Germany, Georgia), learning new skills and technologies to enhance creative expression and better interact with the world. This ongoing learning slowly and surely brought out in me a vivid interest in programming and machine learning.
 
@@ -27,30 +27,30 @@ The most precious thing that I've been taught there is to learn by myself, to ga
 Life is short. There is much to learn.
 
 Current skillset:
-• EDA
-• Data Visualisation
-• Machine Learning
-• Computer Vision
-• Natural Language Processing
-• OOP
++ EDA
++ Data Visualisation
++ Machine Learning
++ Computer Vision
++ Natural Language Processing
++ OOP
 
 Data stack:
-• Python
-• SQL
-• Power BI, Excel
-• Dataiku
-• OpenCV
-• TensorFlow, Keras
-• Pandas, Sklearn, nltk
++ Python
++ SQL
++ Power BI, Excel
++ Dataiku
++ OpenCV
++ TensorFlow, Keras
++ Pandas, Sklearn, nltk
 
 Web stack:
-• Vue.js / Node.js
-• Laravel
-• Figma
++ Vue.js / Node.js
++ Laravel
++ Figma
 
 Additional:
-• InDesign
-• Premiere Pro, After Effects, Blender
-• TouchDesigner, Resolume
-• Live Ableton
-• Arduino
++ InDesign
++ Premiere Pro, After Effects, Blender
++ TouchDesigner, Resolume
++ Live Ableton
++ Arduino
