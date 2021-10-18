@@ -9,8 +9,7 @@ Machine Learning & Data Analysis 2021 course.
 
 I'm currently looking for a **3 to 6 months internship** to consolidate my training in a challenging and collaborative work environment.
 
-Download my resume below:
-[Jun-Suzuki-in-a-nutshell.pdf](https://github.com/szkjn/resume/files/7368401/CV_ML_OCT2021_v1.2.pdf)
+My Resume: [Jun-in-a-nutshell.pdf](https://github.com/szkjn/resume/files/7368401/CV_ML_OCT2021_v1.2.pdf)
 
 More about myself :
 
