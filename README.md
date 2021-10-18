@@ -1,14 +1,12 @@
-### About me
-
-Hi all,
+Hi all ! ::)
 
 I'm Jun Suzuki 1/2-french, 1/2-japanese ex-opera singer, with a background in digital, sound and installation art, freshly graduated from Epitech Coding Academy Machine Learning & Data Analysis 2021 Course.
 
-I'm currently looking for a **3 to 6 months internship** to consolidate my training in a challenging and collaborative work environment.
+I'm currently looking for a **3 to 6 months internship** to consolidate my training in a challenging and collaborative work environment. I'm particularly looking for anything related to **Machine Learning, Deep Learning, Natural Language Processing or Computer Vision.**
 
-My resume: [jun-in-a-nutshell.pdf](https://github.com/szkjn/resume/files/7368401/CV_ML_OCT2021_v1.2.pdf)
+## > my resume: [jun-in-a-nutshell.pdf](https://github.com/szkjn/resume/files/7368401/CV_ML_OCT2021_v1.2.pdf)
 
-More about myself :
+#### More about myself :
 
 I've spent the last 3 years challenging myself, attending selective art residencies all around Europe (Iceland, Hungary, Germany, Georgia), learning new skills and technologies to enhance creative expression and better interact with the world. This ongoing learning slowly and surely brought out in me a vivid interest in programming and machine learning.
 
@@ -20,7 +18,7 @@ The most precious thing that I've been taught there is to learn by myself, to ga
 
 Life is short. There is much to learn.
 
-Current skillset:
+#### Current skillset:
 + EDA
 + Data Visualisation
 + Machine Learning
@@ -28,7 +26,7 @@ Current skillset:
 + Natural Language Processing
 + OOP
 
-Data stack:
+#### Data stack:
 + Python
 + SQL
 + Power BI, Excel
@@ -37,12 +35,12 @@ Data stack:
 + TensorFlow, Keras
 + Pandas, Sklearn, nltk
 
-Web stack:
+#### Web stack:
 + Vue.js / Node.js
 + Laravel
 + Figma
 
-Additional:
+#### Additional:
 + InDesign
 + Premiere Pro, After Effects, Blender
 + TouchDesigner, Resolume
