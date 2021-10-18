@@ -2,14 +2,12 @@
 
 Hi all,
 
-I'm Jun Suzuki, half-french, half-japanese ex-opera singer,
+I'm Jun Suzuki 1/2-french, 1/2-japanese ex-opera singer,
 with a background in digital, sound and installation art
-freshly graduated from a Machine Learning & Data Analysis course
-at Epitech Coding Academy (2021).
+freshly graduated from Epitech Coding Academy
+Machine Learning & Data Analysis 2021 course.
 
-Currently in the process of changing the course of my life towards an interdisciplinary tech career !
-
-Therefore, **I'm looking for a 3 to 6 months internship** to consolidate my training in a challenging and collaborative work environment.
+I'm currently looking for a **3 to 6 months internship** to consolidate my training in a challenging and collaborative work environment.
 
 Download my resume below:
 [Jun-Suzuki-in-a-nutshell.pdf](https://github.com/szkjn/resume/files/7368401/CV_ML_OCT2021_v1.2.pdf)
