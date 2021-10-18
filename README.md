@@ -31,12 +31,15 @@ Life is short. There is much to learn.
 + SQL
 + Power BI, Excel
 + Dataiku
-+ OpenCV
-+ TensorFlow, Keras
-+ Pandas, Sklearn, nltk
+
+#### ML stack:
++ Sklearn
++ TensorFlow, Keras, Pytorch
++ NLTK, TextBlob
++ OpenCV, easyOCR, pytesseract
 
 #### Web stack:
-+ Vue.js / Node.js
++ Vue.js, Node.js
 + Laravel
 + Figma
 
