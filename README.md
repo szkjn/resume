@@ -32,7 +32,7 @@ I'm currently looking for a **3 to 6 months internship** to consolidate my train
 + Live Ableton
 + Arduino
 
-### More about myself :
+## > in-depth analysis :
 
 I've spent the last 3 years challenging myself, attending selective art residencies all around Europe (Iceland, Hungary, Germany, Georgia) learning new skills and technologies to enhance creative expression, crossing paths with people from different backgrounds and origins, soaking up in the diversity of experiences and perspectives the world provides. This ongoing learning slowly and surely brought out in me a **vivid interest in programming and machine learning**.
 
