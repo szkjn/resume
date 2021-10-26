@@ -34,7 +34,7 @@ I'm currently looking for a **3 to 6 months internship** to consolidate my train
 
 ## > in-depth analysis :
 
-I've spent the last 3 years challenging myself, attending selective art residencies all around Europe (Iceland, Hungary, Germany, Georgia) learning new skills and technologies to enhance creative expression, crossing paths with people from different backgrounds and origins, soaking up in the diversity of experiences and perspectives the world provides. This ongoing learning slowly and surely brought out in me a **vivid interest in programming and machine learning**.
+I've spent the last 3 years challenging myself, attending selective art residencies all around Europe (Iceland, Hungary, Germany, Georgia) learning new skills and technologies to enhance creative expression, crossing paths with people from different backgrounds and origins, soaking up in **the diversity of experiences and perspectives the world provides**. This ongoing learning slowly and surely brought out in me a vivid interest in programming and machine learning.
 
 At some point, I remember telling myself (half-lost on an island at the edge of the world in Iceland) that for the first time I'd consider sound and images as **data that can be manipulated with algorithms**. That moment was the turning point from where everything changed.
 
