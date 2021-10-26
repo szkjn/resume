@@ -4,7 +4,7 @@ I'm Jun Suzuki 1/2-french, 1/2-japanese ex-opera singer, with a background in di
 
 I'm currently looking for a **3 to 6 months internship** to consolidate my training in a challenging and collaborative work environment. I'm particularly looking for anything related to **Machine Learning, Deep Learning, Natural Language Processing or Computer Vision.**
 
-## > my resume: [jun-in-a-nutshell.pdf](https://github.com/szkjn/resume/files/7368401/CV_ML_OCT2021_v1.2.pdf)
+## > my resume: [jun-in-a-nutshell.pdf](https://github.com/szkjn/resume/files/7416757/Jun-Suzuki-Resume.pdf)
 
 #### Current skillset:
 + EDA, Data mining, Data visualisation
@@ -59,4 +59,4 @@ So, if you're looking for an out-of-the-ordinary-ML-enthusiast-young-but-commite
 
 hit me up : : ) 
 
-jun
+Jun
