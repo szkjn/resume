@@ -44,8 +44,19 @@ I've spent the last 3 years challenging myself, attending selective art residenc
 
 At some point, I remember telling myself that for the first time I'd consider sound and images as data that can be manipulated with algorithms. That moment was the turning point from where everything changed.
 
-After 10 (covid) months of self-teaching basic programming and statistics online, I enrolled in a 5 months high-standard course on Data Analysis and Machine Learning at the Coding Academy by Epitech, well known for its learn-by-doing pedagogy.
+After 10 months of self-teaching basic programming and statistics online, I enrolled in a high-standard course on Data Analysis and Machine Learning at the Coding Academy by Epitech, well known for its learn-by-doing pedagogy.
 
-The most precious thing that I've been taught there is to learn by myself, to gather all the knowledge that I need to make things work. I'm well aware I'm still a beginner in the Data Analysis ecosystem but I'm more than ever confident in my learning skills. Now that I've embarked on this journey, I'm curious to go further.
+The most precious thing that I've been taught there is to learn by myself, to gather all the knowledge that I need to make things work. I'm well aware I'm still a beginner in this ecosystem but I'm more than ever confident in my learning skills. 
+
+In addition, my artistic background has provided me with many soft skills over the years : 
++ creativity
++ openmindedness
++ tactfulness
++ team-spirit
++ self-reassessment
++ curiosity
++ know-how and determination to conduct a project from conception to delivery
+
+Now that I've embarked on this journey, I'm determined to dig deeper.
 
 Life is short. There is much to learn.
