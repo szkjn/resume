@@ -15,10 +15,11 @@ I'm currently looking for a **3 to 6 months internship** to consolidate my train
 + Linux
 
 #### Tech stack:
++ Git
 + Python
 + SQL
 + JavaScript
-+ Git
++ PHP
 
 #### ML frameworks:
 + Sklearn, TensorFlow, Keras, Pytorch
