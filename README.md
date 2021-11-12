@@ -11,6 +11,9 @@ I'm currently looking for a **3 to 6 months internship** to consolidate my train
 + Machine Learning, Computer Vision, NLP
 + OOP
 
+#### Environment:
++ Linux
+
 #### Tech stack:
 + Python
 + SQL
